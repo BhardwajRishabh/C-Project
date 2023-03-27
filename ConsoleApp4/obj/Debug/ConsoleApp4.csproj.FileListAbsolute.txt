@@ -1,0 +1,17 @@
+C:\Users\SHIRO\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\SHIRO\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\SHIRO\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\SHIRO\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\SHIRO\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHIRO\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\SHIRO\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\SHIRO\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\SHIRO\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Magick.NET.Core.dll
+C:\Users\SHIRO\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Magick.NET.SystemDrawing.dll
+C:\Users\SHIRO\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SHIRO\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\System.Drawing.Common.dll
+C:\Users\SHIRO\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Magick.NET.Core.xml
+C:\Users\SHIRO\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Magick.NET.SystemDrawing.xml
+C:\Users\SHIRO\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SHIRO\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\System.Drawing.Common.xml
+C:\Users\SHIRO\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CopyComplete
